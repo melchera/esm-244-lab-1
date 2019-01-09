@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-###ESM 244 Lab 1: 
+###ESM 244 Lab 1: Austin Melcher
 
 **Objectives**:
 
